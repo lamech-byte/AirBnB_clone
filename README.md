@@ -14,3 +14,7 @@ The console works both in interactive mode and non-interactive mode, much like a
 Ukitaka ikuwe bold unaweka # Mbele ya word
 
 # Test
+na kuweka images nayo?
+
+![image](https://user-images.githubusercontent.com/85806980/218674055-a3b504ff-0378-42e3-903b-05d06c11ac2c.png)
+
